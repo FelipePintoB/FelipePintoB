@@ -1,7 +1,9 @@
 ## **Hi, I’m @FelipePintoB**
 ------------
-I’m frontend development, I got knowlege about JS, CSS, HTML, Angular and Ionic. My back up is for support on cloud infrastructures, cross plattform development with Ionic, web aplication using Angular Framework.
-
-How to reach me? you can text me in my linkedin profile.
+Professional and specialist in Electronic Engineering, passionate for programming and technology, I'm constantly in formation as a Front-end and Back-end developer. I have wide knowledge in technologies like HTML, CSS, JavaScript, TypeScript, Angular, React, Node JS and Express.
+ 
+I'm familiar with cloud environments, networks, infrastructure, web platforms and software as a service.
+ 
+I have great skills about creativity, adaptability and learning. Leadership skills too.
 
 [https://www.linkedin.com/in/andr%C3%A9s-felipe-pinto-becerra-17777bb8/](https://www.linkedin.com/in/andr%C3%A9s-felipe-pinto-becerra-17777bb8/?locale=en_US)
