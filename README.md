@@ -1,6 +1,6 @@
 ## **Hi, I’m @FelipePintoB**
 ------------
-Professional and specialist in Electronic Engineering, passionate for programming and technology, I'm constantly in formation as a Front-end and Back-end developer. I have wide knowledge in technologies like HTML, CSS, JavaScript, TypeScript, Angular, React, Node JS and Express.
+Professional and specialist in Electronic Engineering, passionate for programming and technology, I'm constantly in formation as a Front-end and Back-end developer. I have wide knowledge in technologies like HTML TypeScript, Angular, React, Node JS and Express.
  
 I'm familiar with cloud environments, networks, infrastructure, web platforms and software as a service.
  
